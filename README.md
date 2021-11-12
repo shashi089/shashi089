@@ -3,6 +3,6 @@
 
 
 - 🌱 I’m currently learning **MERN Stack**
-- 📫 How to reach me **shashidharnaik8@gmail.com
+- 📫 How to reach me **shashidharnaik8@gmail.com**
 
 
