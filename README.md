@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shashidhar 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m MERN Stack Developer
 - 📫 How to reach me **shashidharnaik8@gmail.com**
 
 
