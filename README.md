@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shashidhar 
 
 
-- 🌱 I’m MERN Stack Developer
+- 🌱 I’m Full Stack Web Developer
 - 📫 How to reach me **shashidharnaik8@gmail.com**
 
 
