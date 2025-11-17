@@ -39,7 +39,6 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
 - 🔹 **Warehouse Management System** – Scanning, logistics & automation  
 - 🔹 **React + Node Full Stack Apps** – API-driven business applications  
 
-> Want me to add project links? Just tell me.
 
 ---
 
