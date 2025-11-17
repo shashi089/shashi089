@@ -54,8 +54,10 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi089&show_icons=true" />
 </p>
 
+
+<br/>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shashi089" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi089&" alt="shashi089" />
 </p>
 
 
