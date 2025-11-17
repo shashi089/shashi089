@@ -44,11 +44,20 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi089&show_icons=true&layout=compact" /></p><br/><br/><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi089&show_icons=true" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi089&layout=compact&show_icons=true" />
+</p>
+<br/><br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi089" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi089&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shashi089" />
+</p>
+
 
 ---
 
