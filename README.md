@@ -14,7 +14,7 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
 - 💻 4+ years of experience building production-ready applications  
 - ⚡ Worked on **Industrial IoT systems**, **Scanners & Inspection flows**, and **Warehouse Management Systems**
 - 🧩 Strong in UI design, API integration, debugging & automation  
-- 💬 Ask me about **React, Node.js, Vue, MongoDB, REST APIs**
+- 💬 Ask me about **React, Node.js, Vue, MongoDB, Python, PostgreSQL, REST APIs**
 
 ---
 
@@ -30,6 +30,8 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
 ---
