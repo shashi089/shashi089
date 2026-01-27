@@ -1,24 +1,27 @@
-# Hi 👋, I'm Shashidhar  
+# Hi 👋, I'm Shashidhar Naik  
 
-**Full Stack MERN/MEVN Developer | React • Vue • Node • MongoDB | IIoT & Warehouse Automation Developer**
+**Full Stack Developer (MERN / MEVN) | React • Vue • Node • TypeScript • Python • FastAPI | IIoT & Warehouse Automation**
 
-🚀 Passionate about building modern, scalable web applications and intuitive UI/UX experiences.  
-Worked on **IIoT dashboards**, **warehouse management systems**, real-time monitoring, and full-stack web solutions.
+🚀 Passionate about building **scalable, high-performance web applications** and **real-world automation solutions**.  
+Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**, **billing & inspection workflows**, and **API-driven platforms**.
 
-📫 Reach me at: **shashidharnaik8@gmail.com**
+🌐 Portfolio: https://shashidhar-portfolio.netlify.app  
+📫 Email: **shashidharnaik8@gmail.com**
 
 ---
 
 ## 🔥 About Me
-- 🌱 Full Stack Web Developer (MERN & MEVN)
-- 💻 4+ years of experience building production-ready applications  
-- ⚡ Worked on **Industrial IoT systems**, **Scanners & Inspection flows**, and **Warehouse Management Systems**
-- 🧩 Strong in UI design, API integration, debugging & automation  
-- 💬 Ask me about **React, Node.js, Vue, MongoDB, Python, PostgreSQL, REST APIs**
+
+- 💻 **4+ years** of hands-on experience in full-stack development  
+- 🌱 Specialized in **MERN & MEVN stacks** with **Python & FastAPI backends**
+- ⚙️ Built and maintained **Industrial IoT systems**, **scanner-based inspection flows**, and **warehouse automation tools**
+- 🎯 Strong focus on **clean UI, scalable architecture, and performance**
+- 💬 Ask me about **React, Vue, Node.js, TypeScript, Python, FastAPI, MongoDB, PostgreSQL, REST APIs**
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -29,18 +32,29 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **IIoT Inspection Dashboard** – Real-time machine inspection data  
-- 🔹 **Warehouse Management System** – Scanning, logistics & automation  
-- 🔹 **React + Node Full Stack Apps** – API-driven business applications  
 
+- 🔹 **IIoT Inspection Dashboard**  
+  Real-time machine inspection and monitoring system with live data visualization.
+
+- 🔹 **Warehouse Management System (WMS)**  
+  End-to-end warehouse automation including scanning, inventory tracking, and logistics workflows.
+
+- 🔹 **Billing & Business Applications**  
+  Full-stack React + Node / FastAPI applications with secure APIs, reports, and role-based access.
+
+- 🔹 **Stock Automation Tool**  
+  Automated trading workflows with real-time data, strategy execution, and broker API integration.
+
+👉 More projects: **https://shashidhar-portfolio.netlify.app**
 
 ---
 
@@ -49,21 +63,27 @@ Worked on **IIoT dashboards**, **warehouse management systems**, real-time monit
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi089&layout=compact&show_icons=true" />
 </p>
+
 <br/><br/><br/>
 
 <p>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi089&show_icons=true" />
 </p>
 
-
 <br/>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi089&" alt="shashi089" />
-</p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi089" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-<a href="https://linkedin.com/in/" target="_blank">LinkedIn</a> | <a href="mailto:shashidharnaik8@gmail.com">Email</a>
 
+- 💼 [LinkedIn](https://linkedin.com/in/)
+- 🌐 [Portfolio](https://shashidhar-portfolio.netlify.app)
+- ✉️ [Email](mailto:shashidharnaik8@gmail.com)
+
+---
+
+⭐ *Open to exciting full-stack, frontend, backend (FastAPI), and automation-focused opportunities.*
