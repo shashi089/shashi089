@@ -80,7 +80,7 @@ Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**,
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashidhar-naik-aab5b512a/)
 - 🌐 [Portfolio](https://shashidhar-portfolio.netlify.app)
 - ✉️ [Email](mailto:shashidharnaik8@gmail.com)
 
