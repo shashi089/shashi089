@@ -1,4 +1,6 @@
-# Hi 👋, I'm Shashidhar Naik  
+# Hi 👋, I'm Shashidhar Naik
+
+![Profile Views](https://komarev.com/ghpvc/?username=shashi089&label=Profile%20Views&color=0e75b6&style=flat)
 
 **Full Stack Developer (MERN / MEVN) | React • Vue • Node • TypeScript • Python • FastAPI | IIoT & Warehouse Automation**
 
