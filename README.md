@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shashi089&label=Profile%20Views&color=0e75b6&style=flat)
 
-**Full Stack Developer (MERN / MEVN) | React • Vue • Node • TypeScript • Python • FastAPI | IIoT & Warehouse Automation**
+**Full Stack Developer (MERN / MEVN) | React • Nuxt Js • Node • TypeScript | IIoT & Warehouse Automation**
 
 🚀 Passionate about building **scalable, high-performance web applications** and **real-world automation solutions**.  
 Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**, **billing & inspection workflows**, and **API-driven platforms**.
@@ -18,7 +18,7 @@ Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**,
 - 🌱 Specialized in **MERN & MEVN stacks** with **Python & FastAPI backends**
 - ⚙️ Built and maintained **Industrial IoT systems**, **scanner-based inspection flows**, and **warehouse automation tools**
 - 🎯 Strong focus on **clean UI, scalable architecture, and performance**
-- 💬 Ask me about **React, Vue, Node.js, TypeScript, Python, FastAPI, MongoDB, PostgreSQL, REST APIs**
+- 💬 Ask me about **React, Nuxt Js, Node.js, TypeScript, MongoDB, PostgreSQL, REST APIs**
 
 ---
 
@@ -34,8 +34,6 @@ Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
@@ -51,7 +49,7 @@ Experienced in developing **IIoT dashboards**, **Warehouse Management Systems**,
   End-to-end warehouse automation including scanning, inventory tracking, and logistics workflows.
 
 - 🔹 **Billing & Business Applications**  
-  Full-stack React + Node / FastAPI applications with secure APIs, reports, and role-based access.
+  Full-stack React + Node applications with secure APIs, reports, and role-based access.
 
 - 🔹 **Stock Automation Tool**  
   Automated trading workflows with real-time data, strategy execution, and broker API integration.
